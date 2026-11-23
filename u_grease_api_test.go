@@ -3,7 +3,7 @@ package tls_test
 import (
 	"testing"
 
-	tls "github.com/enetx/utls"
+	tls "github.com/alvarorichard/enetx-utls"
 )
 
 // The public helper's five-element array remains source-compatible when the

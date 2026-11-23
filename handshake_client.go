@@ -24,8 +24,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/enetx/utls/internal/fips140tls"
-	"github.com/enetx/utls/internal/tls13"
+	"github.com/alvarorichard/enetx-utls/internal/fips140tls"
+	"github.com/alvarorichard/enetx-utls/internal/tls13"
 )
 
 type clientHandshakeState struct {

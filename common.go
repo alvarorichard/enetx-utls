@@ -29,7 +29,7 @@ import (
 	"time"
 	_ "unsafe" // for linkname
 
-	"github.com/enetx/utls/internal/fips140tls"
+	"github.com/alvarorichard/enetx-utls/internal/fips140tls"
 )
 
 const (

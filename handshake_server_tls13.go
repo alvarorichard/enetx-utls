@@ -21,9 +21,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/enetx/utls/internal/byteorder"
-	"github.com/enetx/utls/internal/fips140tls"
-	"github.com/enetx/utls/internal/tls13"
+	"github.com/alvarorichard/enetx-utls/internal/byteorder"
+	"github.com/alvarorichard/enetx-utls/internal/fips140tls"
+	"github.com/alvarorichard/enetx-utls/internal/tls13"
 )
 
 // maxClientPSKIdentities is the number of client PSK identities the server will

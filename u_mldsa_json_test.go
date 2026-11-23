@@ -6,7 +6,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/enetx/utls/dicttls"
+	"github.com/alvarorichard/enetx-utls/dicttls"
 )
 
 func TestMLDSASignatureSchemeJSON(t *testing.T) {

@@ -19,7 +19,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/enetx/utls/dicttls"
+	"github.com/alvarorichard/enetx-utls/dicttls"
 )
 
 var ErrUnknownClientHelloID = errors.New("tls: unknown ClientHelloID")

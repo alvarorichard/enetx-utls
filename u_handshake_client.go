@@ -14,8 +14,8 @@ import (
 	"io"
 	"slices"
 
-	"github.com/enetx/utls/internal/fips140tls"
-	"github.com/enetx/utls/internal/tls13"
+	"github.com/alvarorichard/enetx-utls/internal/fips140tls"
+	"github.com/alvarorichard/enetx-utls/internal/tls13"
 	"github.com/klauspost/compress/zstd"
 	"github.com/molecule-man/go-brrr"
 )

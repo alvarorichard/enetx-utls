@@ -19,7 +19,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/enetx/utls/internal/fips140tls"
+	"github.com/alvarorichard/enetx-utls/internal/fips140tls"
 )
 
 // serverHandshakeState contains details of a server handshake in progress.

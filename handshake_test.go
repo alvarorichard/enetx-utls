@@ -24,8 +24,8 @@ import (
 	"testing/cryptotest"
 	"time"
 
-	"github.com/enetx/utls/internal/boring"
-	"github.com/enetx/utls/internal/testenv"
+	"github.com/alvarorichard/enetx-utls/internal/boring"
+	"github.com/alvarorichard/enetx-utls/internal/testenv"
 )
 
 // TLS reference tests run a connection against a reference implementation

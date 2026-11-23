@@ -1,4 +1,4 @@
-module github.com/enetx/utls
+module github.com/alvarorichard/enetx-utls
 
 go 1.27
 

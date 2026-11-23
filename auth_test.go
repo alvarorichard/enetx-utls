@@ -11,9 +11,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/enetx/utls/internal/cryptotest"
-	"github.com/enetx/utls/internal/fips140tls"
-	"github.com/enetx/utls/internal/testenv"
+	"github.com/alvarorichard/enetx-utls/internal/cryptotest"
+	"github.com/alvarorichard/enetx-utls/internal/fips140tls"
+	"github.com/alvarorichard/enetx-utls/internal/testenv"
 )
 
 func TestSignatureSelection(t *testing.T) {
